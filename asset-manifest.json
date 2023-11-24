@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cb8a6f25.chunk.css",
+    "main.js": "./static/js/main.c632ef30.chunk.js",
+    "main.js.map": "./static/js/main.c632ef30.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.5766fe9d.chunk.js": "./static/js/2.5766fe9d.chunk.js",
+    "static/js/2.5766fe9d.chunk.js.map": "./static/js/2.5766fe9d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.cb8a6f25.chunk.css.map": "./static/css/main.cb8a6f25.chunk.css.map",
+    "static/js/2.5766fe9d.chunk.js.LICENSE.txt": "./static/js/2.5766fe9d.chunk.js.LICENSE.txt",
+    "static/media/Slider.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/arrow-left.c0d01b22.svg": "./static/media/arrow-left.c0d01b22.svg",
+    "static/media/arrow-right.4756c064.svg": "./static/media/arrow-right.4756c064.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/ProductCard.scss": "./static/media/heard.dbd19c03.svg",
+    "static/media/logo.2d8d3e42.svg": "./static/media/logo.2d8d3e42.svg",
+    "static/media/header.scss": "./static/media/shoping.1beda4df.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.5766fe9d.chunk.js",
+    "static/css/main.cb8a6f25.chunk.css",
+    "static/js/main.c632ef30.chunk.js"
+  ]
+}
