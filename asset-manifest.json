@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.6104f42f.chunk.css",
-    "main.js": "./static/js/main.3e5c7e2a.chunk.js",
-    "main.js.map": "./static/js/main.3e5c7e2a.chunk.js.map",
+    "main.css": "./static/css/main.f2752a63.chunk.css",
+    "main.js": "./static/js/main.fd1b9437.chunk.js",
+    "main.js.map": "./static/js/main.fd1b9437.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.88e9f619.chunk.js": "./static/js/2.88e9f619.chunk.js",
-    "static/js/2.88e9f619.chunk.js.map": "./static/js/2.88e9f619.chunk.js.map",
+    "static/js/2.cc8e4543.chunk.js": "./static/js/2.cc8e4543.chunk.js",
+    "static/js/2.cc8e4543.chunk.js.map": "./static/js/2.cc8e4543.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.6104f42f.chunk.css.map": "./static/css/main.6104f42f.chunk.css.map",
-    "static/js/2.88e9f619.chunk.js.LICENSE.txt": "./static/js/2.88e9f619.chunk.js.LICENSE.txt",
-    "static/media/NotFoundPage.scss": "./static/media/shoping.1beda4df.svg",
+    "static/css/main.f2752a63.chunk.css.map": "./static/css/main.f2752a63.chunk.css.map",
+    "static/js/2.cc8e4543.chunk.js.LICENSE.txt": "./static/js/2.cc8e4543.chunk.js.LICENSE.txt",
+    "static/media/Categories.scss": "./static/media/shoping.1beda4df.svg",
     "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
     "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
     "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.88e9f619.chunk.js",
-    "static/css/main.6104f42f.chunk.css",
-    "static/js/main.3e5c7e2a.chunk.js"
+    "static/js/2.cc8e4543.chunk.js",
+    "static/css/main.f2752a63.chunk.css",
+    "static/js/main.fd1b9437.chunk.js"
   ]
 }
